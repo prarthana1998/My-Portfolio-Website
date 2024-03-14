@@ -1,12 +1,7 @@
-import Card from "./card"
-import Button from "./Button";
-import Student from "./Student.jsx"
+import './index.css';
 function App() {
  return(
-  <> 
-  <Student name="Spongebob" age={20} isStudent={true}/>
-  </>
-  
+  <p>Portfolio Website</p>
  );
 }
 
