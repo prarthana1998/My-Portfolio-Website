@@ -30,3 +30,6 @@
     color: var(--color-text);
     text-decoration: none;
 }
+.menuBtn {
+    display: none;
+  }
